@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://2.gravatar.com/avatar/92eae94638629770b18210f48b464f9fc0c8944069a0c9ae44257f6de8177c2a?size=512&d=initials" width="180" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" alt="Synaptode" />
-
-# 🚀 Synaptode
-
 ### Software Engineer | Developer Tools Builder | Open Source Creator
 
 *Building powerful, elegant developer tools that solve real problems.*
